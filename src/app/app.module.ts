@@ -10,9 +10,11 @@ import { PlayerActionsComponent } from './player/player-actions/player-actions.c
 import { SongListComponent } from './player/song-list/song-list.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
+
 @NgModule({
   declarations: [
     AppComponent,
+    
   ],
   imports: [
     BrowserModule,
