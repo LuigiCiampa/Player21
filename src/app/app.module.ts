@@ -13,11 +13,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 @NgModule({
   declarations: [
     AppComponent,
-    PlayerComponent,
-    HeaderComponent,
-    SongImageComponent,
-    PlayerActionsComponent,
-    SongListComponent
   ],
   imports: [
     BrowserModule,
